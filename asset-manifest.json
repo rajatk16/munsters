@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/munsters/static/css/main.8242db10.chunk.css",
+    "main.js": "/munsters/static/js/main.2fde7559.chunk.js",
+    "main.js.map": "/munsters/static/js/main.2fde7559.chunk.js.map",
+    "runtime~main.js": "/munsters/static/js/runtime~main.1d03a838.js",
+    "runtime~main.js.map": "/munsters/static/js/runtime~main.1d03a838.js.map",
+    "static/js/2.9918f956.chunk.js": "/munsters/static/js/2.9918f956.chunk.js",
+    "static/js/2.9918f956.chunk.js.map": "/munsters/static/js/2.9918f956.chunk.js.map",
+    "index.html": "/munsters/index.html",
+    "precache-manifest.0a0bbbc14e7379a83eb811ffe81456e7.js": "/munsters/precache-manifest.0a0bbbc14e7379a83eb811ffe81456e7.js",
+    "service-worker.js": "/munsters/service-worker.js",
+    "static/css/main.8242db10.chunk.css.map": "/munsters/static/css/main.8242db10.chunk.css.map"
+  }
+}
